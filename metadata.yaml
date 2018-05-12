@@ -1,0 +1,30 @@
+_repo: Some-Notes-on-Early-Woodcut-Books-with-a-Chapter-on-Illuminated-Manuscripts_46241
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46241-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Morris, William
+    alias: Morris, William M.
+    birthdate: 1834
+    deathdate: 1896
+    gutenberg_agent_id: '107'
+    url: http://www.gutenberg.org/2009/agents/107
+    wikipedia: http://en.wikipedia.org/wiki/William_Morris
+description: ''
+gutenberg_issued: '2014-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46241'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Illustrated books'
+- !lcc 'Z'
+- !lcsh 'Illumination of books and manuscripts'
+- !lcsh 'Printing -- History'
+title: Some Notes on Early Woodcut Books, with a Chapter on Illuminated Manuscripts
+url: http://www.gutenberg.org/ebooks/46241
